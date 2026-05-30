@@ -1,4 +1,4 @@
-# CS 179 - Algorithms for Probabilistic and Deterministic Graphical Models - Group Projectm 
+# CS 179 - Algorithms for Probabilistic and Deterministic Graphical Models - Group Project
 
 Group Members: Bala Kausik Vazrala, Aidan Michael Huerta, Jenson Phan
 
