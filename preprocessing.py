@@ -153,8 +153,8 @@ def main():
         "n_train": int(train.sum()),
         "n_test": int(test.sum()),
     }
-    with open(os.path.join(args.outdir, "meta.json"), "w") as f:
-        json.dump(meta, f, indent=2)
+    with open(os.path.join(args.outdir, "meta.json"), "w", encoding="utf-8") as f:
+        json.dump(meta, f, indent=2, ensure_ascii=False)
 
     print(f"[done] wrote outputs to {args.outdir}/")
 

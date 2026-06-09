@@ -1,0 +1,19 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# not used now, ignored as a precaution
+.env
+
+# data and generated outputs
+data/
+processed/
+
+# notebooks
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
