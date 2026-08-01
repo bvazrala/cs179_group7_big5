@@ -2,6 +2,8 @@
 
 Group Members: Bala Kausik Vazrala, Aidan Michael Huerta, Jenson Phan
 
+Report link: https://docs.google.com/document/d/1LonjPNZJF08ROklBeoy9eLjJQMX5YC_Ga6r3KMqHl3s/edit?usp=sharing
+
 # Rediscovering the Big Five with Probabilistic Graphical Models
 
 A CS 179 group project (UC Irvine). We learned the conditional dependence
