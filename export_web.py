@@ -11,7 +11,7 @@ KEEP_EDGES = 220 # target edge count for the render
 
 npz = np.load("processed/splits.npz", allow_pickle=True)
 items = [str(s) for s in npz["items"]]
-Btr = npz["Btr"]
+Btr = npz["X_bin_train"]
 
 J = np.asarray(IsingModel(C=C).fit(Btr).J)
 n = len(items)
